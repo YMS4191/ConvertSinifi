@@ -7,6 +7,7 @@ namespace ConvertSinifi
     {
         public Form1()
         {
+            // TODO : Bu alan düzenlenecek.
             InitializeComponent();
         }
 
