@@ -27,6 +27,9 @@ namespace ConvertSinifi
              
             string gelenSayi1 = Convert.ToString(s11);
             string gelenSayi2 = s11.ToString();
+
+
+            // Sonraki ders ödevlere bakıcaz
         }
     }
 }
